@@ -1,8 +1,8 @@
 ---
-title: This is my title
+title: rumtraubenuss
 layout: default
 ---
 
 ## Hi all!
 
-How are you doing?
+You will find more information [here](http://www.bastianschade.de).
